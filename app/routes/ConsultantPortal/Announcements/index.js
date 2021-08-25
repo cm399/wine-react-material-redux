@@ -45,7 +45,7 @@ const index = () => {
         item="success"
         wrapperClass="mx-0"
         content="Announcements and subcategories that will be displayed to customers and consultants are displayed for easy viewing. The user can create and edit new or existing announcements within this interface. Recommended image sizes for: banner image only announcements: 470px wide by 330px high, banner with text announcement: 470px by 100px high."
-        contentOne="Feature Guide Link "
+        contentOne="Feature Guide Link. "
         contentTwo={<i className="fa fas fa-long-arrow-right"></i>}
       />
       <Card lg={12} md={12} sm={12} xs={12} className="mb-3 p-1">
