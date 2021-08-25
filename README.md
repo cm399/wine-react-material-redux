@@ -3,7 +3,7 @@
 ## How to use this project?
 
 1. clone the project from master branch
-   `git clone https://gitlab.com/scoutandcellar/gallivant-front.git`
+   `git clone https://github.com/toptalent399/wine-react-material-redux.git`
 
 2. Create .env file from the .env.example file in the root path
 
